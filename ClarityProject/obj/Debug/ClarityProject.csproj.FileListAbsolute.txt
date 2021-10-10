@@ -72,7 +72,6 @@ C:\Development\ClarityProject\ClarityProject\bin\System.Web.WebPages.Razor.xml
 C:\Development\ClarityProject\ClarityProject\bin\Newtonsoft.Json.xml
 C:\Development\ClarityProject\ClarityProject\bin\Antlr3.Runtime.pdb
 C:\Development\ClarityProject\ClarityProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Development\ClarityProject\ClarityProject\obj\Debug\ClarityProject.csproj.AssemblyReference.cache
 C:\Development\ClarityProject\ClarityProject\obj\Debug\ClarityProject.csproj.CoreCompileInputs.cache
 C:\Development\ClarityProject\ClarityProject\obj\Debug\ClarityProject.csproj.CopyComplete
 C:\Development\ClarityProject\ClarityProject\obj\Debug\ClarityProject.dll
